@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Allocine</string>
+    <string name="hint_search_movie">Search a movie</string>
+    <string name="description_search_button">Search button</string>
+    <string name="description_thumbnail">Thumbnail</string>
+    <string name="description_movie_poster">Movie Poster</string>
+    <string name="label_loading_synopsis">Chargement du synopsis...</string>
+</resources>
